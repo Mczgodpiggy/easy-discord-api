@@ -1,0 +1,20 @@
+{
+  "name": "ez-discord-api",
+  "version": "1.0.2",
+  "description": "A package made to make using discord's api more easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "discord",
+    "discord-api",
+    "easy-discord-api",
+    "easy",
+    "ez",
+    "easy-api"
+  ],
+  "author": "Mczgodpiggy",
+  "license": "ISC"
+}
