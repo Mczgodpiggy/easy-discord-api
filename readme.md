@@ -9,5 +9,5 @@ const dapi = require("ez-discord-api")
 dapi.duserinfo("your_bot_token_here", "user_Id").then(res => console.log(res))
 
 //get a server member's info
-dapi.dsmbinfo("your_bot_token_here", "guild_id", "member_id")
+dapi.dsmbinfo("your_bot_token_here", "guild_id", "member_id").then(res => console.log(res))
 ```
