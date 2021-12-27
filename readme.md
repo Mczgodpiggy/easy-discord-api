@@ -15,5 +15,5 @@ dapi.dsmbinfo("your_bot_token_here", "guild_id", "member_id").then(res => consol
 dapi.dguildinfo("your_bot_token", "guild_id").then(res => console.log(res))
 ```
 
-[<img src="https://user-images.githubusercontent.com/63181866/147238935-71ee78d0-945b-4c5e-9a96-a7870c0eab37.png">](https://npmjs.com/easy-discord-api)
+[<img src="https://nodei.com/npm/easy-discord-api">](https://npmjs.com/easy-discord-api)
 
